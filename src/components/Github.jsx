@@ -1,6 +1,6 @@
 export default function Github(){
 
-const github = "https://github.com/maxespinosa19"
+const github = "https://github.com/maxespinosa19/react-homage"
 return(
 <div className="github-link">
 <p id="github-section">
